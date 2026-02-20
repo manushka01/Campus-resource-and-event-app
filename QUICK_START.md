@@ -23,7 +23,7 @@ Replace these values in `.env.local`:
 ```env
 VITE_USE_FIREBASE=true
 
-VITE_FIREBASE_API_KEY=AIzaSyC27AA6NbjD0D6NAG4kYjP3FxQ5eEdJUtw
+VITE_FIREBASE_API_KEY=API KEY
 VITE_FIREBASE_AUTH_DOMAIN=your-project.firebaseapp.com
 VITE_FIREBASE_PROJECT_ID=your-project-id
 VITE_FIREBASE_STORAGE_BUCKET=your-project.appspot.com
@@ -95,3 +95,4 @@ The app will use the mock data with localStorage.
 ## Need Help?
 
 See `FIREBASE_SETUP.md` for detailed instructions and troubleshooting.
+
